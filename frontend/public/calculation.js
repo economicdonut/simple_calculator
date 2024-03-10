@@ -30,6 +30,7 @@ function calculate(operation) {
                 document.getElementById('result').textContent = data.error;
             } else {
                 document.getElementById('result').textContent = data.result;
+                document.getElementById('error').textContent = '';
             }
         })
         .catch(error => console.error('Error:', error));
