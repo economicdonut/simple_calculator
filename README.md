@@ -1,10 +1,8 @@
-# simple_calculators
-GCC SFTP Internship Tech Test Submission - Mirf Omar
+# GCC SFTP Internship Tech Test Submission - Mirf Omar
 
 Both API and webpage has been deployed to cloud
 
-API and API_test files are in the "backend" folder
-main.py - API for handling calculation
-calculationAPITest - Simple test cases for the API
+Backend - API and API_test files 
+Frontend - HTML,CSS,Javascript files
 
-HTML,CSS,Javascript files are in the "frontend/public" folder
+local_backup - local deployable files if bad luck is summoned and google cloud/firebase fails
