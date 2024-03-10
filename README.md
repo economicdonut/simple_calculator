@@ -1,5 +1,5 @@
 # simple_calculators
-Mirf Omar - Submission for GovTech TA
+GCC SFTP Internship Tech Test Submission - Mirf Omar
 
 Both API and webpage has been deployed to cloud
 
