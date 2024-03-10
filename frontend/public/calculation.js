@@ -14,7 +14,9 @@ function calculate(operation) {
     b = b === '' ? 0 : parseInt(b);
 
     var url = 'https://calculationapi.df.r.appspot.com/' + operation;
-
+    // var url = 'http://localhost:5000/' + operation;
+    // if gcp is not working use this instead
+    
     fetch(url, {
         method: 'POST',
         headers: {
