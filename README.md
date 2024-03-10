@@ -1,6 +1,6 @@
 # GCC SFTP Internship Tech Test Submission - Mirf Omar
 
-Both API and webpage has been deployed to cloud
+Both API and webpage have been deployed to cloud
 
 Backend - API and API_test files 
 
