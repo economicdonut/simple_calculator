@@ -1,6 +1,6 @@
 import unittest
 import json
-from calculationAPI import app  
+from main import app  
 
 class calculationAPITest(unittest.TestCase):
 
